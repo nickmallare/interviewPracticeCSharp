@@ -1,0 +1,6 @@
+/Users/nickmallare/Projects/interviewPracticeCSharp/interviewPracticeCSharp/bin/Debug/interviewPracticeCSharp.exe
+/Users/nickmallare/Projects/interviewPracticeCSharp/interviewPracticeCSharp/bin/Debug/interviewPracticeCSharp.pdb
+/Users/nickmallare/Projects/interviewPracticeCSharp/interviewPracticeCSharp/obj/Debug/interviewPracticeCSharp.csprojAssemblyReference.cache
+/Users/nickmallare/Projects/interviewPracticeCSharp/interviewPracticeCSharp/obj/Debug/interviewPracticeCSharp.csproj.CoreCompileInputs.cache
+/Users/nickmallare/Projects/interviewPracticeCSharp/interviewPracticeCSharp/obj/Debug/interviewPracticeCSharp.exe
+/Users/nickmallare/Projects/interviewPracticeCSharp/interviewPracticeCSharp/obj/Debug/interviewPracticeCSharp.pdb

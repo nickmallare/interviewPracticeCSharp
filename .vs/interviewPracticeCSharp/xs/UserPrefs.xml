@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FE5B2F10-0DCF-4967-B465-CF6A57862435}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="interviewPracticeCSharp/Program.cs">
+    <Files>
+      <File FileName="interviewPracticeCSharp/Program.cs" Line="25" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="interviewPracticeCSharp" expanded="True">
+            <Node name="interviewPracticeCSharp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.interviewPracticeCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
